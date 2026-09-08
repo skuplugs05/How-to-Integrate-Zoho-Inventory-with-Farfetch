@@ -1,2 +1,2 @@
 # How-to-Integrate-Zoho-Inventory-with-Farfetch
-Connect Zoho Inventory with Farfetch using SKUPlugs. Sync inventory and orders automatically. Start a 15-day free trial.
+[**Connect Zoho Inventory with Farfetch**](https://skuplugs.com/zoho-farfetch-integration/) using SKUPlugs and simplify marketplace management. Keep inventory and order data synchronized between both platforms while reducing manual updates and data entry. Improve inventory accuracy, streamline order processing, and save valuable time. SKUPlugs provides an easy way to manage your Farfetch sales alongside Zoho Inventory. Start your 15-day free trial today with no credit card required.
